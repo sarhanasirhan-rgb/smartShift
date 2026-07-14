@@ -1,3 +1,4 @@
-import os 
+import os
+
 TOKEN = os.getenv("8603445210:AAG_O8ejNjt3FRQ_wL5VRJCmuHyBRCBT0uo")
-MANAGER_PASSWORD = "324566"
+MANAGER_CODE = os.getenv("MANAGER_CODE", "1234")
